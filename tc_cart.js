@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 1
 
-   Author: Sarah Nodheim
-   Date:   2018-03-01
+   Author:
+   Date:   
    
    Filename: tc_cart.js
 	
